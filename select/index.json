@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "真相",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-14T12:39:04.155361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真相 - 《守護神之保險調查》電視劇主題曲",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/01_真相_-_《守護神之保險調查》電視劇主題曲_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "夢劇院",
+      "has_synced": false,
+      "path": "select/02_真相_夢劇院.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "陈奕迅",
+      "has_synced": false,
+      "path": "select/03_真相_陈奕迅.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "許廷鏗 & 胡鴻鈞 - 真相 (劇集\"天眼\"主題曲)",
+      "artist": "Alfred Hui",
+      "has_synced": false,
+      "path": "select/04_許廷鏗_&_胡鴻鈞_-_真相_(劇集_天眼_主題曲)_Alfred_Hui.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "Leslie Cheung",
+      "has_synced": true,
+      "path": "select/05_真相_Leslie_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "梦剧院",
+      "has_synced": false,
+      "path": "select/06_真相_梦剧院.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "Chan, Eason",
+      "has_synced": true,
+      "path": "select/07_真相_Chan,_Eason.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/08_真相_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "真相 [Feat. 許廷鏗]",
+      "artist": "胡鴻鈞",
+      "has_synced": true,
+      "path": "select/09_真相_[Feat._許廷鏗]_胡鴻鈞.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/10_真相_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "真相 - (劇集 \"天眼\"主題曲)",
+      "artist": "Alfred Hui",
+      "has_synced": true,
+      "path": "select/11_真相_-_(劇集__天眼_主題曲)_Alfred_Hui.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "張國榮",
+      "has_synced": true,
+      "path": "select/12_真相_張國榮.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "張國榮",
+      "has_synced": false,
+      "path": "select/13_真相_張國榮.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "胡琳",
+      "has_synced": true,
+      "path": "select/14_真相_胡琳.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "真相",
+      "artist": "张国荣",
+      "has_synced": false,
+      "path": "select/15_真相_张国荣.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真相",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_真相_藍月なくる.txt"
+    }
+  ]
+}
